@@ -3,6 +3,7 @@
  * @author Ryan Henderson
  * @author Shayon Ghoshroy
  * Load command initiates the loading of the linked document
+ * 
  */
 public class LoadCommand implements Command {
 	
